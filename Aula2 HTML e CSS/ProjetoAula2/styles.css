@@ -1,0 +1,21 @@
+.button-login {
+    background-color: #ffc000;
+    border-radius:5px;
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.button-login a{
+    text-decoration: none;
+}
+
+.button-criar {
+    background-color: #ffc000;
+    border-radius:5px;
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    color: #000000;
+}
