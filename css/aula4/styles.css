@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.caixas {
+    background-color: antiquewhite;
+    height: 100vh;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
+
+
+.box1 {
+    background-image: linear-gradient(#FF23AB, rgba(255, 255, 0, 0.5));
+    height: 25vh;
+    width: 50vw;
+    opacity: 0.67;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 9px;
+}
+
+.box2 {
+    background-color: aquamarine;
+    height: 25vh;
+    width: 50vw;
+}
+
+.box3 {
+    background-color: green;
+    height: 25vh;
+    width: 50vw;
+}
