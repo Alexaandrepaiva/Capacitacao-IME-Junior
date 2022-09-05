@@ -4,3 +4,9 @@
 console.log("Essa é a minha primeira frase de teste") // string
 
 console.log(123123, 15.85, 35, 29.90) // number
+
+//Concatenação de Strings
+let umaString = "Eu não gosto de "
+console.log(umaString.concat('cereja e banana'));
+console.log(umaString + 'abacaxi e banana');
+console.log(`${umaString}banana e melancia`);
