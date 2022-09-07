@@ -1,3 +1,4 @@
+// Dados primirivos são copiados e não são referenciados
 // String, number, undefined, null, boolean, symbol
 const nome = 'Alexander'; // stirng
 let numero = 123123; // number
