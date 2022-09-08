@@ -4,6 +4,7 @@
     --primary-color: #05546f;
     --primary-color-darker: #044256;
     --positive-color: #3cd61d;
+    --negative-color: #d61d1d;
 }
 
 * {
@@ -67,8 +68,12 @@ form button:hover {
     background: var(--primary-color-darker);
 }
 
-.paragrafo-resultado {
+.paragrafo-resultado, .bad {
     background-color: var(--positive-color);
     padding: 10px 20px;
     border-radius: 5px;
+}
+
+.bad {
+    background-color: var(--negative-color);
 }

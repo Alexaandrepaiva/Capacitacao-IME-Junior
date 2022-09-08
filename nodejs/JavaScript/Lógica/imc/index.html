@@ -29,14 +29,14 @@
         </div>
         <h1>Calcule seu IMC</h1>
         
-        <form action="" id="formulario">
-            <label for="input-teste-1">Peso:</label>
-            <input type="text" id="input-teste-1">
+        <form action="" class="form" id="formulario" method="post">
+            <label for="peso">Peso:</label>
+            <input type="text" id="peso" name="peso">
 
-            <label for="input-teste-2">Altura</label>
-            <input type="number" id="input-teste-2">
+            <label for="altura">Altura:</label>
+            <input type="text" id="altura" name="altura">
 
-            <button>Enviar</button>
+            <button type="submit">Enviar</button>
         </form>
         <div id="resultado"></div>
     </section>
