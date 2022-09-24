@@ -1,7 +1,12 @@
-secreto = "perfume"
+secreto = "abacaxi"
 digitadas = []
+chances = 5
 
 while True:
+    if chances <= 0:
+        print(f'Infelizmente, você perdeu todas suas chances! A palavra era {secreto}\n')
+        break
+    
     letra = input("Digite uma letra: ")
     
     if len(letra)>1:
@@ -15,6 +20,7 @@ while True:
         digitadas.append(letra)
     else:
         print(f"\nInfelizmente a letra '{letra}' NÃO EXISTE na palavra secreta.")
+        chances -= 1
     
     secreto_temporario = ''
     for letra_secreta in secreto:
