@@ -1,7 +1,0 @@
-// comentario inline
-
-/*
-
-comentário multiline
-
-*/
