@@ -14,6 +14,8 @@ int main() {
     std::cout << "Enter a symbol to use:\n";
     std::cin >> symbol;
 
+    std::cout << "\n";
+
     for (int i = 1; i < rows; i++){
         for (int j = 1; j < columns; j++){
             std::cout << symbol;
