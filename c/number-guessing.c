@@ -4,7 +4,7 @@
 
 int main(){
     const int MIN = 1;
-    const int MAX = 100;
+    const int MAX = 50;
 
     int guess;
     int guesses;
@@ -17,7 +17,7 @@ int main(){
     answer = (rand() % MAX) + MIN;
 
     do {
-        printf("\nEnter a guess: ");
+        printf("\nEnter a guess between %d and %d: ", MIN, MAX);
         scanf("%d", &guess);
         if (guess > answer){
             printf("Too high!\n");
