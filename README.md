@@ -1,34 +1,34 @@
-# Capacitação dos Trainees do Batalhão de Computação da IME Júnior 
+# Training of IME Júnior Computing Battalion Trainees
 
-A capacitação dos trainees do segundo semestre do ano de 2022 do Batalhão de Computação da empresa júnior do Instituto Militar de Engenharia (IME Júnior) tem intuito de ensinar aos novos integrantes da empresa o básico de diferentes linguagens para que eles sejam capazes de se aperfeiçoarem e executar projetos para a empresa. Esse repositório contem os arquivos usados nessa capacitação. 
+The Junior Enterprise of Military Institute of Engineering (IME) has a Computing Battalion that develops softwares and web applications. As member turnover is high, every semester there is training of new trainees where the current developpers teach the trainees how to code and the practices of the company. This is the repository that I used while I was in charge of this trainning and some extra projects to be used in future trainings. 
 
-<strong>Coordenador: </strong>Alexandre Paiva 
+The training of trainees in the second half of 2022 aimed to teach new company members the basics of different languages so that they are able to improve and execute projects for the company. This repository contains the files used in this enablement.
 
-<strong>Instrutores: </strong>Alexandre Paiva, Luiz Braga, Thiago Vasconcellos, Ana Paula, Ivo Lin, Jean Crispim.
+<strong>Coordinator: </strong>Alexandre Paiva
 
-## Capacitação Geral
+<strong>Instructors: </strong>Alexandre Paiva, Luiz Braga, Thiago Vasconcellos, Ana Paula, Ivo Lin, Jean Crispim.
 
-A primeira parte da capacitação dos trainees, é a parte da capacitação geral, em que todos os Trainees aprenderão HTLM, CSS e JavaScript. 
+## General Training
 
-Essa primeira parte teve duração de um mês e, ao seu fim, os trainees foram divididos em grupos de três pessoas para uma competição em que cada grupo teve que desenvolver um site de tema pré-definido apenas com as linguagens aprendidas na capacitação.
+The first part of the training is the general training part, in which all Trainees will learn HTLM, CSS and JavaScript. This part lasted a month and, at the end of it, the trainees were divided into groups of three people for a competition in which each group had to develop a website with a pre-defined theme only with the languages learned in the training.
 
 #### HTML
 #### CSS
 #### JavaScript
 
 
-## Capacitação Específica
+## Specific Training
 
-Em seguida, os Trainees escolhem livremente de qual área do Batalhão de Computação eles farão parte. A partir dessa escolha, cada área do batalhão tem a sua própria capacitação.
+Then, the Trainees freely choose which area of the Computing Battalion they will be part of. From that choice, each area of the battalion has its own training.
 
-### Desenvolvimento App
+### App Development
 #### React
 
-### Desenvolvimento Web
+### Web development
 #### Next
-### Banco de Dados
+### Database
 #### Firebase
 
-## Capacitação Extra
+## Extra Training
 
-Para quem for pertinente, deixarei nesse repositório alguns arquivos complementando alguns assuntos da capacitação, bem como arquivos para uma capacitação de outras linguagens de programação.
+For those who are relevant, I will leave in this repository some files complementing some subjects of the training, as well as files for training in other programming languages.
